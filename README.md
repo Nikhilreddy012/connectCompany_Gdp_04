@@ -6,7 +6,7 @@ We are planning to develop this project using Vue JS as a frontend framework and
 
  Stack:
 ## Backend
-1. Javascript, Adonis
+1. AdonisJs
 
 ## Host
 2. Heroku
@@ -17,7 +17,6 @@ We are planning to develop this project using Vue JS as a frontend framework and
 
 ## Frontend
 4. Vue JS
-
 
 ## Front-end responsive design
 5.Bootstrap
