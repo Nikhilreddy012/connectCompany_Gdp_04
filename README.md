@@ -5,15 +5,19 @@
 We are planning to develop this project using Vue JS as a frontend framework and Adonis JS as a backend framework.
 
  Stack:
-
+## Backend
 1. Javascript, Adonis
 
+## Host
 2. Heroku
 
+## Data Host
 3. Heroku PostgreSQL
 
+
+## Frontend
 4. Vue JS
 
-5. Front-end responsive design
 
-Bootstrap
+## Front-end responsive design
+5.Bootstrap
