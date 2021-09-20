@@ -32,4 +32,8 @@ for frontend i have updated vuejs pdf document for preperation
 
 ## Created a Demo Repo for the project 
  - pushed basic backend code to repo [link here](https://github.com/saikiranreddygangidi/demo_connectCompany/tree/main/connectcompanyAPI)
+ - pushed basic frontend code to repo [link here](https://github.com/saikiranreddygangidi/demo_connectCompany/tree/main/client)
+
+
+
 
