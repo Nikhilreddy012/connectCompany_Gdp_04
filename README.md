@@ -26,3 +26,11 @@ We are planning to develop this project using Vue JS as a frontend framework, Ad
 for frontend i have updated vuejs pdf document for preperation
 
 [link to adonisjs documentation for the reference ](https://docs.adonisjs.com/guides/introduction)
+
+
+
+
+- Created a Demo Repo for the project 
+ - And pushed basic backend code to repo [link here](https://github.com/saikiranreddygangidi/demo_connectCompany/tree/main/connectcompanyAPI)
+
+ - !
