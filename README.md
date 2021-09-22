@@ -1,5 +1,7 @@
 # connectCompany_Gdp_04
 
+Detailed Proposal Link : [click Here](https://github.com/Nikhilreddy012/connectCompany_Gdp_04/blob/main/proposal.md)
+
 <https://github.com/s541910/691-01-F21-RFP-Group04>
 
 We are planning to develop this project using Vue JS as a frontend framework, Adonis JS as a backend framework, and MySQL as a database server because we require the structured data to be stored(because relations are more efficient in Structured data).
