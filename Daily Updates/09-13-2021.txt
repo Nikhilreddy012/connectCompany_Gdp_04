@@ -1,0 +1,7 @@
+09/13/2021
+
+SaiKiranReddy Gangidi: Worked on Backend Development and some basic Api's.
+VenkatSai Jarugula: Worked on Frontend Development,developed static login page and worked on the structure.
+Vivek Drakshapally: Worked on Backend Development and some basic Api's.
+Nikhil Pannala: Worked on Frontend Development,developed static login page and worked on the structure.
+Swetha Gahana Sanagala: Worked on Frontend Development,developed static login page and worked on the structure.
