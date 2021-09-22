@@ -1,6 +1,6 @@
 # connectCompany_Gdp_04
 
-*Detailed Proposal Link :* [click Here](https://github.com/Nikhilreddy012/connectCompany_Gdp_04/blob/main/proposal.md)
+**Detailed Proposal Link :** [click Here](https://github.com/Nikhilreddy012/connectCompany_Gdp_04/blob/main/proposal.md)
 
 <https://github.com/s541910/691-01-F21-RFP-Group04>
 
