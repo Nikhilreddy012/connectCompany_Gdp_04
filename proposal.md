@@ -89,7 +89,7 @@ For example, one wants to communicate  with a business organization
 Expected entites may include:
 
 * USER
-  	*       userId
+	*       userId
 	*	email
 	*	password
 	*	username
