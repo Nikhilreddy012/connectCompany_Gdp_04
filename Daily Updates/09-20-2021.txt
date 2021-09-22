@@ -1,0 +1,7 @@
+09/20/2021
+
+SaiKiranReddy Gangidi: Created Functional analysis, risk analysis, and updated readme with deployment documentation of front end and back end.
+VenkatSai Jarugula: Updated in Proposal.md and Updated static webpage.
+Nikhil Pannala: Created Software Requirements and Created routing design for the project.
+Vivek Drakspally: Updated ER Diagram of the project and Updated the Daily Updates of the Project. 
+Swetha Gahana Sangala: Worked on deployment of backend.
