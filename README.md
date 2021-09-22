@@ -27,8 +27,8 @@ for frontend i have updated vuejs pdf document for preperation
 
 [link to adonisjs documentation for the reference ](https://docs.adonisjs.com/guides/introduction)
 
-Here are the document how to deploy adonisJs application to heroku [click here](https://docs.adonisjs.com/cookbooks/deploy-to-heroku)<br>
-Here are the document how to deploy vuejs application to heroku[click here](https://dev.to/anjolaogunmefun/deploy-vue-js-projects-to-heroku-1hb5)
+**Here are the document how to deploy adonisJs application to heroku**  [click here](https://docs.adonisjs.com/cookbooks/deploy-to-heroku)<br>
+**Here are the document how to deploy vuejs application to heroku** [click here](https://dev.to/anjolaogunmefun/deploy-vue-js-projects-to-heroku-1hb5)
 
 
  
