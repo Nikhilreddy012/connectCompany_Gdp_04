@@ -1,0 +1,6 @@
+every one in the team:
+worked on backend and frontend struture 
+updated register and login api in backend 
+created the database and table in it
+linked in databases with backend
+and tested with sample data
