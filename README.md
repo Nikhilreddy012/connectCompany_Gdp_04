@@ -32,8 +32,8 @@ We are planning to develop this project using Vue JS as a frontend framework, Ad
 
  
 ## Created a Demo Repo for the project 
- - pushed basic backend code to repo [link here](https://github.com/saikiranreddygangidi/demo_connectCompany/tree/main/connectcompanyAPI)
- - pushed basic frontend code to repo [link here](https://github.com/saikiranreddygangidi/demo_connectCompany/tree/main/client)
+ - pushed basic backend code to repo [link here](https://github.com/saikiranreddygangidi/demo_connectcompany/tree/main/connectcompanyapi)
+ - pushed basic frontend code to repo [link here](https://github.com/saikiranreddygangidi/demo_connectcompany/tree/main/client)
 
 
 
