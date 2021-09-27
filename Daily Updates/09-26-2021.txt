@@ -1,0 +1,2 @@
+Everyone in the Group:
+Worked on front end,Back end login credentials and Deployed the application in Heroku.
