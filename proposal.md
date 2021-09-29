@@ -3,7 +3,7 @@
 ## Statement of Purpose :
 
 
--	In any business climate, creating associations and extending effort can enormously affect your organization's primary concern. This connect company may increases the market visibility, systems administration and connect job goal to the company, manages the time, provides more opportunities to the user by projecting all the available updates about all the companies in one platform. In this applications users can have the easy accessibility to view the events from different companies and they can fix the remainders and scheduled
+-	In any business climate, creating associations and extending effort can enormously affect your organization's primary concern. This connect company may increases the market visibility, systems administration and connect job goal to the company, manages the time, provides more opportunities to the user by projecting all the available updates about all the companies in one platform. In this applications users can have the easy accessibility to view the events from different companies and they can fix the remainders and schedule the events.
 
 ## Overview
 
