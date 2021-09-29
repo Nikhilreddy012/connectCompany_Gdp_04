@@ -29,19 +29,18 @@ The website is cooperative, not complex to find the company and subscribe to the
 
 ## Epics / User Stories / Tasks:
 ### Backend
--	Create login Api
--	Create database schema with realtionships
--	Create login and register API.
--	Create Add API to add company person by admin to the system
+-	Create login Api and database schema with realtionships
+-	Create API for login,register and also for generating tokens which is used for authentication.
+-	Create Add API to add company person by admin to the system.
 -	Create Add event API for company person to add/create event/Job
+-	Create an API for the admin user where he can add commiteee memeber to the database
 -	Create Subscribe API to subscribe in events or job
 -	Create ApplyEvent API to apply for event/job
 -	Create ListEvents to view all the events/jobs applied
 
 ### Fronend:
--	Create Login page 
--	Create Register page
--	Create 3 different dashboards for 3 different users
+-	Create user interface Pages like Home(Welcome page) Login page ,Register page
+-	Create Dashboard 
 -	Create Application submission view to submit event or job by a company
 -	Create a Different pages which show all the companies and events in each company.
 
