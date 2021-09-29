@@ -44,8 +44,38 @@ There are multiple side advantages through this connect company firstly The comp
 -	Verifying that the interface is simple to use
 
 ## Contract scope / budget / schedule (2 semesters):
+-  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
+# Budget
+| S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
+|------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
+| 1    | [Nikhil Reddy Pannala](https://github.com/NikhilReddy012)           |  Developer  | $45 |   9 - 12 |  $405 - $540 |
+| 2    | [Venkat Sai Jarugula](https://github.com/jarugulavenkat7)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
+| 3    | [SaiKiran Gangidi](https://github.com/saikiranreddygangidi)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
+| 4    | [Vivek Drakshapally](https://github.com/vivekd31)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
+| 5    | [Swetha Gahana](https://github.com/swetha34)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
+|    |               |   |  | Material Resources  | $1000 |
+|    |               |   |  | Total  | $3025 - $3700 |
 
 
+
+### Project: Connect Company
+### Overall Status: On Track
+### Major Milestones:
+| Stage | Date |
+|------|--------------------------------------------------------------------|
+|Milestone 1 | 30 October 2021 |
+|Milestone 2 | 30 November 2021 |
+|Milestone 3 | 30 January 2022 |
+|Milestone 4 | 30 February 2022 |
+|Milestone 5 | 30 March 2022 |
+|Completion | 30 April 2022 |
+## ProjectTeam:
+|Project Lead | Nikhil Reddy Pannala |
+|------|--------------------------------------------------------------------|
+|Team Members | Venkat Sai Jarugula |
+| | SaiKiran Gangidi |
+| | Vivek Drakshapally |
+| | Swetha Gahana |
 ## Schedule:
 
 -	**Sprint-1**: In the initial sprint we have built the plan and we have sorted the technologies we are dealing with and we gathered the requirements.
