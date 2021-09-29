@@ -117,6 +117,11 @@ Expected entites may include:
 	*	eventLocation
 	*	orgId
 
+## User interface sketches
+![](GDP%20Images/registerForm.PNG)
+![](GDP%20Images/loginForm.PNG)
+![](GDP%20Images/welcome.PNG)
+
 ## Technology stack descriptions:
 
 ### Backend framework 
