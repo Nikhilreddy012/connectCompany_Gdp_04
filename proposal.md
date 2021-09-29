@@ -138,7 +138,7 @@ Expected entites may include:
 
 ## Consistent set of sample data in Excel, use one sheet for each entity
 ![](GDP%20Images/Capture1.PNG)
-![](GDP%20Images/Capture2.PNG)
 ![](GDP%20Images/Capture3.PNG)
-![](GDP%20Images/Capture4.PNG)
 ![](GDP%20Images/Capture5.PNG)
+![](GDP%20Images/Capture4.PNG)
+![](GDP%20Images/Capture2.PNG)
