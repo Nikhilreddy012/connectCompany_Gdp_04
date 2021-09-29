@@ -131,3 +131,7 @@ Expected entites may include:
 - For the frontend  we planning to use vue js framework which is an component based framework
 ### Front-end responsive design 
 - The Front-end responsive design would be *Bootstrap*
+
+
+## E-R diagram displayed:
+![](https://github.com/Nikhilreddy012/connectCompany_Gdp_04/blob/main/GDP%20Images/ER%20Diagram.jpeg "ERDiagram")
