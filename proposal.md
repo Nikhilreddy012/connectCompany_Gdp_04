@@ -118,9 +118,9 @@ Expected entites may include:
 	*	orgId
 
 ## User interface sketches
-![](GDP%20Images/registerForm.PNG)
-![](GDP%20Images/loginForm.PNG)
-![](GDP%20Images/welcome.PNG)
+![](GDP%20Images/registerForm.png)
+![](GDP%20Images/loginForm.png)
+![](GDP%20Images/welcome.png)
 
 ## Technology stack descriptions:
 
