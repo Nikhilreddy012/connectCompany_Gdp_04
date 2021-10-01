@@ -32,12 +32,13 @@ The website is cooperative, not complex to find the company and subscribe to the
 - As an user, I should be shown with valid error message if I provide invalid credentials.
 - As an user, I want to view all the events happing in differnet companies and should be able to register for the events.
 - As an user, I want to be notified before the event.
+</br>
 
 - As an admin, I want to login into the application by providing valid credentials.
 - As an admin, I should be shown with valid error message if I provide invalid credentials.
 - As an admin, I want to check the user details and the events that users have registerd for.
 - As an admin, I want add new new company into the application.
-
+</br>
 
 - As an company admin, I want to regiter into the application by providing the all the required information.
 - As an company admin, I want to login into the application by providing valid credentials.
