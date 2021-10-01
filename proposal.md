@@ -21,11 +21,10 @@ After subscribing to the event,
 The website is cooperative, not complex to find the company and subscribe to the events happening.
 
 ## Benefits
--	This application is a user-friendly application 
--	By utilizing this application the companies can reduce their money spending on advertising.
--	The user will be up to date with the company events.  
--	This Website acts as a bridge between user and company.
--	There is clear transparency between users and companies
+- The user will be informed about different company events.
+- Companies can save money on advertising by using this application.
+- This website serves as a link between the user and the company.
+- This website acts as a perfect transparent medium between users and companies.
 
 ## Epics / User Stories / Tasks:
 ### Backend
