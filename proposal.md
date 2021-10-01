@@ -27,21 +27,23 @@ The website is cooperative, not complex to find the company and subscribe to the
 - This website acts as a perfect transparent medium between users and companies.
 
 ## Epics / User Stories / Tasks:
-### Backend
--	Create login Api and database schema with realtionships
--	Create API for login,register and also for generating tokens which is used for authentication.
--	Create Add API to add company person by admin to the system.
--	Create Add event API for company person to add/create event/Job
--	Create an API for the admin user where he can add commiteee memeber to the database
--	Create Subscribe API to subscribe in events or job
--	Create ApplyEvent API to apply for event/job
--	Create ListEvents to view all the events/jobs applied
+- As an user, I want to regiter into the application by providing the all the required information.
+- As an user, I want to login into the application by providing valid credentials.
+- As an user, I should be shown with valid error message if I provide invalid credentials.
+- As an user, I want to view all the events happing in differnet companies and should be able to register for the events.
+- As an user, I want to be notified before the event.
 
-### Fronend:
--	Create user interface Pages like Home(Welcome page) Login page ,Register page
--	Create Dashboard 
--	Create Application submission view to submit event or job by a company
--	Create a Different pages which show all the companies and events in each company.
+- As an admin, I want to login into the application by providing valid credentials.
+- As an admin, I should be shown with valid error message if I provide invalid credentials.
+- As an admin, I want to check the user details and the events that users have registerd for.
+- As an admin, I want add new new company into the application.
+
+
+- As an company admin, I want to regiter into the application by providing the all the required information.
+- As an company admin, I want to login into the application by providing valid credentials.
+- As an company admin, I should be shown with valid error message if I provide invalid credentials.
+- As an company admin, I want to add, edit and delete different events occuring in a company.
+- As an company admin, I want to check all the registered users for an event.
 
  
 ## Acceptance criteria checklist:
