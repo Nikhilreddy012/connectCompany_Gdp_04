@@ -46,11 +46,11 @@ The website is cooperative, not complex to find the company and subscribe to the
 
  
 ## Acceptance criteria checklist:
--	Verifying the User Authentication page
--	Verifying that the user could register for the events successfully
--	After a user searches for an event, the results should include a differnet companies.
+-	User should be authenticated on providing valid credentials or should be displayed with a proper message in case of invalid credentials. 
+-	User should be able to register for the events successfully
+-	If the user searches for an event, all the relevant events in different companies should be displayed
 -	Confirmation that the user will receive updated notifications for upcoming events and tasks.
--	Verifying that the interface is simple to use
+-	The UI should be user friendly so that the user can register in an event easily.
 
 ## Contract scope / budget / schedule (2 semesters):
 -  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
