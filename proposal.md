@@ -63,7 +63,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 | 2    | [Venkat Sai Jarugula](https://github.com/jarugulavenkat7)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
 | 3    | [SaiKiran Gangidi](https://github.com/saikiranreddygangidi)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
 | 4    | [Vivek Drakshapally](https://github.com/vivekd31)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
-| 5    | [Swetha Gahana](https://github.com/swetha34)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
+| 5    | [Gahana Swetha Sanagala](https://github.com/swetha34)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
 |    |               |   |  | Material Resources  | $1000 |
 |    |               |   |  | Total  | $3025 - $3700 |
 
@@ -86,7 +86,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 |Team Members | Venkat Sai Jarugula |
 | | SaiKiran Gangidi |
 | | Vivek Drakshapally |
-| | Swetha Gahana |
+| | Gahana Swetha Sanagala |
 ## Schedule:
 
 -	**Sprint-1**: In the initial sprint we have built the plan and we have sorted the technologies we are dealing with and we gathered the requirements.
