@@ -27,32 +27,34 @@ The website is cooperative, not complex to find the company and subscribe to the
 - This website acts as a perfect transparent medium between users and companies.
 
 ## Epics / User Stories / Tasks:
-- As an user, I want to regiter into the application by providing the all the required information.
-- As an user, I want to login into the application by providing valid credentials.
-- As an user, I should be shown with valid error message if I provide invalid credentials.
-- As an user, I want to view all the events happing in differnet companies and should be able to register for the events.
-- As an user, I want to be notified before the event.
+- As a **USER**, I want to regiter into the application by providing the all the required information.
+- **User should be authenticated on providing valid credentials**
+- As a **USER**, I want to login into the application by providing valid credentials.
+- As a **USER**, I should be shown with valid error message if I provide invalid credentials.
+- As a **USER**, I want to view all the events happing in differnet companies and should be able to register for the events.
+- As a **USER**, I want to be notified before the event.
 </br>
 
-- As an admin, I want to login into the application by providing valid credentials.
-- As an admin, I should be shown with valid error message if I provide invalid credentials.
-- As an admin, I want to check the user details and the events that users have registerd for.
-- As an admin, I want add new new company into the application.
+- As a **ADMIN**, I want to login into the application by providing valid credentials.
+- As a **ADMIN**, I should be shown with valid error message if I provide invalid credentials.
+- As a **ADMIN**, I want to check the user details and the events that users have registerd for.
+- As a **ADMIN**, I want add new new company into the application.
 </br>
 
-- As an company admin, I want to regiter into the application by providing the all the required information.
-- As an company admin, I want to login into the application by providing valid credentials.
-- As an company admin, I should be shown with valid error message if I provide invalid credentials.
-- As an company admin, I want to add, edit and delete different events occuring in a company.
-- As an company admin, I want to check all the registered users for an event.
+- As a **COMPANY ADMIN**, I want to regiter into the application by providing the all the required information.
+- As a **COMPANY ADMIN**, I want to login into the application by providing valid credentials.
+- As a **COMPANY ADMIN**, I should be shown with valid error message if I provide invalid credentials.
+- As a **COMPANY ADMIN**, I want to add, edit and delete different events occuring in a company.
+- As a **COMPANY ADMIN**, I want to check all the registered users for an event.
 
  
 ## Acceptance criteria checklist:
--	User should be authenticated on providing valid credentials or should be displayed with a proper message in case of invalid credentials. 
--	User should be able to register for the events successfully
--	If the user searches for an event, all the relevant events in different companies should be displayed
+-	User should be authenticated on providing valid credentials.
+-	Or else in another case User should be displayed with a proper message in case of invalid credentials. 
+-	User should be able to register for the events successfully.
+-	If the user searches for an event, all the relevant events in different companies should be displayed.
 -	Confirmation that the user will receive updated notifications for upcoming events and tasks.
--	The UI should be user friendly so that the user can register in an event easily.
+-	The UI should be user friendly so that the user can register in an event easily with out any hesitation.
 
 ## Contract scope / budget / schedule (2 semesters):
 -  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
