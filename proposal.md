@@ -30,14 +30,18 @@ The website is cooperative, not complex to find the company and subscribe to the
  
 ## Epics / User Stories / Tasks :
 - As a **USER**, I want to regiter into the application by providing the all the required information.
-- **User should be authenticated on providing valid credentials**
+   
 - As a **USER**, I want to login into the application by providing valid credentials.
-- **Or else in another case User should be displayed with a proper message in case of invalid credentials**
+     - **Given,** User should be authenticated on providing valid credentials 
+
 - As a **USER**, I should be shown with valid error message if I provide invalid credentials.
-- **User should be able to register for the events successfully** **and** **If the user searches for an event, all the relevant events in different companies should be displayed**
+     - **Given,** Or else in another case User should be displayed with a proper message in case of invalid credentials
+
 - As a **USER**, I want to view all the events happing in differnet companies and should be able to register for the events.
-- **Confirmation that the user will receive updated notifications for upcoming events and tasks**
+     - **Given,** User should be able to register for the events successfully and If the user searches for an event, all the relevant events in different companies should be displayed
+ 
 - As a **USER**, I want to be notified before the event.
+    - **Given,** Confirmation that the user will receive updated notifications for upcoming events and tasks
 </br>
 
 - As a **ADMIN**, I want to login into the application by providing valid credentials.
