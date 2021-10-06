@@ -26,6 +26,8 @@ The website is cooperative, not complex to find the company and subscribe to the
 - This website serves as a link between the user and the company.
 - This website acts as a perfect transparent medium between users and companies.
 
+
+ 
 ## Epics / User Stories / Tasks:
 - As a **USER**, I want to regiter into the application by providing the all the required information.
 - **User should be authenticated on providing valid credentials**
