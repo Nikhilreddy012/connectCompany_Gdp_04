@@ -5,7 +5,7 @@
 
 -	In any business climate, creating associations and extending effort can enormously affect your organization's primary concern. This connect company may increases the market visibility, systems administration and connect job goal to the company, manages the time, provides more opportunities to the user by projecting all the available updates about all the companies in one platform. In this applications users can have the easy accessibility to view the events from different companies and they can fix the remainders and schedule the events.
 
-## Overview
+## Overview :
 
 -	This application is all about connecting the user to companies. So far there are only a few platforms where a user can connect to companies. So we have developed our idea based on this concept. This Connect company is used to connect the job aspirant to the company events. So in this platform where user login into the connect company website and he/she can view the events organized by the companies.
 There are multiple side advantages through this connect company firstly The companies can minimize advertisement for hiring the people and from the user point of view instead of he/she searching for the job openings on the mega-platforms simply he/she can look in to connect company for the events.
@@ -16,11 +16,11 @@ How the application will works
 -	User can submit their request to join in the upcoming events.
 -	They can get updates and emails on the subscribed events.
 
-After subscribing to the event,
+**After subscribing to the event,**
 -	The user should be able to see a list of events happening and subscribed by him to return to the starting location (show on a map?)
 The website is cooperative, not complex to find the company and subscribe to the events happening.
 
-## Benefits
+## Benefits :
 - The user will be informed about different company events.
 - Companies can save money on advertising by using this application.
 - This website serves as a link between the user and the company.
@@ -28,7 +28,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 
 
  
-## Epics / User Stories / Tasks:
+## Epics / User Stories / Tasks :
 - As a **USER**, I want to regiter into the application by providing the all the required information.
 - **User should be authenticated on providing valid credentials**
 - As a **USER**, I want to login into the application by providing valid credentials.
@@ -53,7 +53,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 - As a **COMPANY ADMIN**, I want to check all the registered users for an event.
 
  
-## Acceptance criteria checklist:
+## Acceptance criteria checklist :
 -	User should be authenticated on providing valid credentials.
 -	Or else in another case User should be displayed with a proper message in case of invalid credentials. 
 -	User should be able to register for the events successfully.
@@ -61,7 +61,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 -	Confirmation that the user will receive updated notifications for upcoming events and tasks.
 -	The UI should be user friendly so that the user can register in an event easily with out any hesitation.
 
-## Contract scope / budget / schedule (2 semesters):
+## Contract scope / budget / schedule (2 semesters) :
 -  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
 # Budget
 | S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
@@ -94,7 +94,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 | | SaiKiran Gangidi |
 | | Vivek Drakshapally |
 | | Gahana Swetha Sanagala |
-## Schedule:
+## Schedule :
 
 -	**Sprint-1**: In the initial sprint we have built the plan and we have sorted the technologies we are dealing with and we gathered the requirements.
 -	**Sprint-2** : In the Second Sprint we have built the UI Page using Vue js and build backend using adonis js .Then we have connected the backend with the frontend using 	 rest API we majorly using Axios for connection.
@@ -105,11 +105,11 @@ The website is cooperative, not complex to find the company and subscribe to the
 
  GDP-2 
 
--	**Sprint-4**: Create Database models and schema
--	**Spring-5** : Developing the relations between different tables ( like one-to-one ,many-to -many)
--	**Sprint-6**: Design web APIs
--	**Sprint-7**: Create APIs to communicated with backend database
--	**Sprint-8”: Design all the User Interface pages based on backend requirements
+-	**Sprint-4**: Create Database models and schema.
+-	**Spring-5** : Developing the relations between different tables.( like one-to-one ,many-to -many)
+-	**Sprint-6**: Design web APIs.
+-	**Sprint-7**: Create APIs to communicated with backend database.
+-	**Sprint-8**: Design all the User Interface pages based on backend requirements.
 -	**Sprint-9** Integration with both frontend and backend.
 -	**Sprint-10**: Testing and fixing issues, Deployment of the application.
 
@@ -119,7 +119,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 ![](GDP%20Images/loginForm.png)
 ![](GDP%20Images/welcome.png)
 
-## Technology stack descriptions:
+## Technology stack descriptions :
 
 ### Backend framework 
 - The backend Framework we are using is adonisJs which is writtern in JavaSprint
@@ -135,7 +135,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 - The Front-end responsive design would be *Bootstrap*
 
 
-## E-R diagram displayed:
+## E-R diagram displayed :
 ![](https://github.com/Nikhilreddy012/connectCompany_Gdp_04/blob/main/GDP%20Images/ER%20Diagram.jpeg "ERDiagram")
 
 ## Consistent set of sample data in Excel, use one sheet for each entity
@@ -145,7 +145,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 ![](GDP%20Images/Capture4.PNG)
 ![](GDP%20Images/Capture2.PNG)
 
-## Risks and assumptions:
+## Risks and assumptions :
 
 
 -	The user should be able to login into page using email id and password
