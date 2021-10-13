@@ -151,7 +151,6 @@ functional requirements are classified based upon the role
 | 1    | Identify the Project Goals and Plan           |  Identifying the goals that project should achieve and Finding the respetive Technologies to achieve the Goals  | Saikiran  |  Completed |
 | 2    | Design UI part                   |  Design the webpage of the website and navigation among them | Saikiran | In Progress |
 | 3    | Back-end project creation and setup                  | Api and migrations parts code were done| Venkat | Completed |
-
 | 4    | Frontend project creation and SetUp                  |  Setup the code for routing among webpages | Vivek | Completed |
 | 5    | Register and Login Module UI                  |  Creating Login Page and Register Page using vue js | Nikhil  | Completed |
 | 6    | Front end and backend integration                   | creating the code for api calling to backend from front end using axios  | Swetha | Completed |
