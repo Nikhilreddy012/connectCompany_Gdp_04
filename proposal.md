@@ -156,7 +156,7 @@ functional requirements are classified based upon the role
 - End to End testing
 - Deploying the application in heroku
  
-# Schedule and Iteration Plan:
+## Schedule and Iteration Plan:
 #### **Sprint-1**:  (Start Date: 11th October 2021 – 25th October 2021)
  -	 In the initial sprint we have built the plan 
  -	we have sorted the technologies and requirements we are dealing.
@@ -185,7 +185,7 @@ functional requirements are classified based upon the role
  -	Testing and fixing issues, Deployment of the application
 
 
-# Budget
+## Budget
 | S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
 |------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
 | 1    | [Nikhil Reddy Pannala](https://github.com/NikhilReddy012)           |  Developer  | $45 |   9 - 12 |  $405 - $540 |
