@@ -97,63 +97,26 @@ functional requirements are classified based upon the role
 - database size should be grown along with data size in the database .
 - the project should manage the different user access according the role  
 
-## Contract scope / budget / schedule (2 semesters) :
--  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
-# Budget
-| S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
-|------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
-| 1    | [Nikhil Reddy Pannala](https://github.com/NikhilReddy012)           |  Developer  | $45 |   9 - 12 |  $405 - $540 |
-| 2    | [Venkat Sai Jarugula](https://github.com/jarugulavenkat7)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
-| 3    | [SaiKiran Gangidi](https://github.com/saikiranreddygangidi)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
-| 4    | [Vivek Drakshapally](https://github.com/vivekd31)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
-| 5    | [Gahana Swetha Sanagala](https://github.com/swetha34)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
-|    |               |   |  | Material Resources  | $1000 |
-|    |               |   |  | Total  | $3025 - $3700 |
-
-
-
-### Project: Connect Company
-### Overall Status: On Track
-### Major Milestones:
-| Stage | Date |
-|------|--------------------------------------------------------------------|
-|Milestone 1 | 30 October 2021 |
-|Milestone 2 | 30 November 2021 |
-|Milestone 3 | 30 January 2022 |
-|Milestone 4 | 30 February 2022 |
-|Milestone 5 | 30 March 2022 |
-|Completion | 30 April 2022 |
-## ProjectTeam:
-|Project Lead | Nikhil Reddy Pannala |
-|------|--------------------------------------------------------------------|
-|Team Members | Venkat Sai Jarugula |
-| | SaiKiran Gangidi |
-| | Vivek Drakshapally |
-| | Gahana Swetha Sanagala |
-## Schedule :
-
--	**Sprint-1**: In the initial sprint we have built the plan and we have sorted the technologies we are dealing with and we gathered the requirements.
--	**Sprint-2** : In the Second Sprint we have built the UI Page using Vue js and build backend using adonis js .Then we have connected the backend with the frontend using 	 rest API we majorly using Axios for connection.
--	**Sprint-3**: In the Third Sprint we have built the database in MYSQL and deployed the application in Heroku and using a remote free SQL database.
-
-
- End of semester GDP-1
-
- GDP-2 
-
--	**Sprint-4**: Create Database models and schema.
--	**Spring-5** : Developing the relations between different tables.( like one-to-one ,many-to -many)
--	**Sprint-6**: Design web APIs.
--	**Sprint-7**: Create APIs to communicated with backend database.
--	**Sprint-8**: Design all the User Interface pages based on backend requirements.
--	**Sprint-9** Integration with both frontend and backend.
--	**Sprint-10**: Testing and fixing issues, Deployment of the application.
 
 
 ## User interface sketches
 ![](GDP%20Images/registerForm.png)
 ![](GDP%20Images/loginForm.png)
 ![](GDP%20Images/welcome.png)
+
+
+
+## E-R diagram displayed :
+![](https://github.com/Nikhilreddy012/connectCompany_Gdp_04/blob/main/GDP%20Images/ER%20Diagram.jpeg "ERDiagram")
+
+## Consistent set of sample data in Excel, use one sheet for each entity
+![](GDP%20Images/Capture1.PNG)
+![](GDP%20Images/Capture3.PNG)
+![](GDP%20Images/Capture5.PNG)
+![](GDP%20Images/Capture4.PNG)
+![](GDP%20Images/Capture2.PNG)
+
+
 
 ## Technology stack descriptions :
 
@@ -171,15 +134,6 @@ functional requirements are classified based upon the role
 - The Front-end responsive design would be *Bootstrap*
 
 
-## E-R diagram displayed :
-![](https://github.com/Nikhilreddy012/connectCompany_Gdp_04/blob/main/GDP%20Images/ER%20Diagram.jpeg "ERDiagram")
-
-## Consistent set of sample data in Excel, use one sheet for each entity
-![](GDP%20Images/Capture1.PNG)
-![](GDP%20Images/Capture3.PNG)
-![](GDP%20Images/Capture5.PNG)
-![](GDP%20Images/Capture4.PNG)
-![](GDP%20Images/Capture2.PNG)
 
 ## Risks and assumptions :
 
@@ -227,3 +181,15 @@ functional requirements are classified based upon the role
  -	Integration with both frontend and backend
 #### **Sprint-10**: (Start Date: 6th April 2022- 20th April 2022)
  -	Testing and fixing issues, Deployment of the application
+
+
+# Budget
+| S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
+|------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
+| 1    | [Nikhil Reddy Pannala](https://github.com/NikhilReddy012)           |  Developer  | $45 |   9 - 12 |  $405 - $540 |
+| 2    | [Venkat Sai Jarugula](https://github.com/jarugulavenkat7)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
+| 3    | [SaiKiran Gangidi](https://github.com/saikiranreddygangidi)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
+| 4    | [Vivek Drakshapally](https://github.com/vivekd31)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
+| 5    | [Gahana Swetha Sanagala](https://github.com/swetha34)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
+|    |               |   |  | Material Resources  | $1000 |
+|    |               |   |  | Total  | $3025 - $3700 |
