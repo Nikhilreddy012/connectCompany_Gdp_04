@@ -144,6 +144,8 @@ functional requirements are classified based upon the role
 -	MySQL database that holds all info on organizations, organization's events and user informaqtion.
 -	Admin should be able to view a list of all organizations, organization's events and the user who registered for the particular events.
 
+## Deliverable Artifacts
+
 ## Scope:
 - This application provides a platform where a user can connect to different companies and know what all events goings in the company such as job interviews, product launch events, any important meeting etc. The user can register for the events and get notified before the event. In a similar way, the company admin can post events occurring in the company and can also view the registered users.
 
@@ -193,3 +195,6 @@ functional requirements are classified based upon the role
 | 5    | [Gahana Swetha Sanagala](https://github.com/swetha34)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
 |    |               |   |  | Material Resources  | $1000 |
 |    |               |   |  | Total  | $3025 - $3700 |
+
+
+## Test plan with requirements
