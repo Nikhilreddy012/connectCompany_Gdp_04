@@ -211,3 +211,16 @@ functional requirements are classified based upon the role
 
 
 ## Test plan with requirements
+   -Analyze the product
+   -Design the Test Strategy
+   -Define the Test Objectives
+   -Define Test Criteria
+   -Resource Planning
+   -Plan Test Environment
+   -Schedule & Estimation
+   -Determine Test Deliverables
+ ## Testing Types
+     - Functional Testing
+     - Manual Testing
+     - Interactive Testing
+     - Regression Testing
