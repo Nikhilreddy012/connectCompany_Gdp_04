@@ -189,6 +189,16 @@ functional requirements are classified based upon the role
 -	Making sure the system is compatible with all web browsers (Firefox, Google Chrome,Internet Explorer, Safari, Edge, etc.)
 -	MySQL database that holds all info on organizations, organization's events and user informaqtion.
 -	Admin should be able to view a list of all organizations, organization's events and the user who registered for the particular events.
+
+## Scope:
+- This application provides a platform where a user can connect to different companies and know what all events goings in the company such as job interviews, product launch events, any important meeting etc. The user can register for the events and get notified before the event. In a similar way, the company admin can post events occurring in the company and can also view the registered users.
+
+## Milestones:
+- Developing REST API's and get them tested using postman tool.
+- Developing the User Interface 
+- Database creation and connection with the backend
+- End to End testing
+- Deploying the application in heroku
  
 # Schedule and Iteration Plan:
 #### **Sprint-1**:  (Start Date: 11th October 2021 – 25th October 2021)
