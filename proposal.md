@@ -146,6 +146,20 @@ functional requirements are classified based upon the role
 
 ## Deliverable Artifacts
 
+| S. No. | Deliverable Name                                                           | Description              | Owner | Status |
+|------|--------------------------------------------------------------------|--------------------| ------------- | ---------- |
+| 1    | Identify the Project Goals and Plan           |  Identifying the goals that project should achieve and Finding the respetive Technologies to achieve the Goals  | Saikiran  |  Completed |
+| 2    | Design UI part                   |  Design the webpage of the website and navigation among them | Saikiran | In Progress |
+| 3    | Back-end project creation and setup                  | Api and migrations parts code were done| Venkat | Completed |
+
+| 4    | Frontend project creation and SetUp                  |  Setup the code for routing among webpages | Vivek | Completed |
+| 5    | Register and Login Module UI                  |  Creating Login Page and Register Page using vue js | Nikhil  | Completed |
+| 6    | Front end and backend integration                   | creating the code for api calling to backend from front end using axios  | Swetha | Completed |
+| 7    | Admin can add and manage other committe members and events | Creating an UI functionality for Admin to add committe and companies into system | Venkat | Yet to Start |
+| 8    | Committe memeber can add and manage events   | Creating an API to add event data to db | Vivek | Yet to Start|
+| 9    | User can view different companies and events and subcribe to it | Creating a form where a committe member can add events to the system | Swetha | Yet to Start|
+| 10    | API to see and events,members in events | Creating an API to add events to the system | Nikhil | Yet to Start|
+
 ## Scope:
 - This application provides a platform where a user can connect to different companies and know what all events goings in the company such as job interviews, product launch events, any important meeting etc. The user can register for the events and get notified before the event. In a similar way, the company admin can post events occurring in the company and can also view the registered users.
 
