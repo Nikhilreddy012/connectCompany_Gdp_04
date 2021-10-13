@@ -65,6 +65,38 @@ The website is cooperative, not complex to find the company and subscribe to the
 -	Confirmation that the user will receive updated notifications for upcoming events and tasks.
 -	The UI should be user friendly so that the user can register in an event easily with out any hesitation.
 
+
+
+## Functional Requirement
+functional requirements are classified based upon the role 
+- Admin User can create a profile to the organization and Adds the committee members and other Admins
+- Admin User Can add event users to different events and schedule different events in different locations and times.
+- Admin User can delete event User at any time and also he/she can User can track the different user activities.
+- Admin User can access any user details and Activities performed by an individual.
+- Admin users can not only manage their own created events but can manage an event in the organization
+- As a Committee User can manage Events in a particular organization at any time or location and can also reschedule it 
+- As a Committee User delete event User at any time for any organization.
+- As a Committee User can track the different user activities of his own created events and he/she should have access to all the User's details and Activities performed by the individual.
+- As a Committee User can generate the report of his own created event in the organization after completion of the event.
+- As an End User, he/she can need to create his/her profile
+- As an End User He/she can also provide what is/her interests what need he/she what to do with the account For example, one wants to communicate with a business organization can choose a organization.
+- As End-user, one can view the different organizations
+- He/she can manage the different organizations that are he/she can be in multiple organizations at a time,
+- As an End User, One can add into manage multiple events (At different times)
+- As an End User, one can exits from any event before a specific time.
+
+## Performance Requirements
+- The system should have ability to handle large data because it process details of different users and events across differnt organizations .
+- should be used efficient algorithms for encryption and decryption  different details like password and some other secure data
+- the relationship among the table in database should be very vaild and efficient such that it decrease huge time for retriving uploading data
+- we have find a method to efficient to upload media file to serve 
+## other Requirements
+- Application and database should be running or alive all the time should handle the runtime exceptions
+- System should have secured database and use efficient algorithm for encryption and decryption .
+- secret information should be stored after encryption.
+- database size should be grown along with data size in the database .
+- the project should manage the different user access according the role  
+
 ## Contract scope / budget / schedule (2 semesters) :
 -  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
 # Budget
