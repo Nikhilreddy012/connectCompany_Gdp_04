@@ -158,3 +158,30 @@ The website is cooperative, not complex to find the company and subscribe to the
 -	MySQL database that holds all info on organizations, organization's events and user informaqtion.
 -	Admin should be able to view a list of all organizations, organization's events and the user who registered for the particular events.
  
+# Schedule and Iteration Plan:
+#### **Sprint-1**:  (Start Date: 11th October 2021 – 25th October 2021)
+ -	 In the initial sprint we have built the plan 
+ -	we have sorted the technologies and requirements we are dealing.
+#### **Sprint-2**: (Start Date: 25th October 2021 – 08th October 2021)
+ -	 Built the UI Page using Vue js and build backend using adonis js
+ -	Connected the backend with the frontend using rest API we majorly using Axios for connection.
+#### **Sprint-3**: (Start Date: 8th November 2021 – 22nd November 2021)
+ -	Built the database in MYSQL and deployed the application in Heroku and using a remote free SQL database
+### End Of Semester GDP-1
+
+## GDP-2
+
+####	**Sprint-4**: (Start Date: 12th January 2022 – 26th January 2022)
+ - Create Database models and schema.
+####	**Sprint-5**: (Start Date: 26th January 2022 – 9th February 2022)
+ -	Developing the relations between different tables.( like one-to-one ,many-to -many)
+####	**Sprint-6**: (Start Date:9th February 2022- 23rd February 2022)
+ -	Design web APIs.
+#### **Sprint-7**: (Start Date:23rd February 2022- 9th March 2022)
+ -	Create APIs to communicated with backend database.
+#### **Sprint-8**: (Start Date: 9th March 2022 – 23rd March 2022)
+ -	Design all the User Interface pages based on backend requirements.
+#### **Sprint-9**: (Start Date: 23rd March 2022 – 6th April 2022)
+ -	Integration with both frontend and backend
+#### **Sprint-10**: (Start Date: 6th April 2022- 20th April 2022)
+ -	Testing and fixing issues, Deployment of the application
